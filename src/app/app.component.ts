@@ -20,15 +20,27 @@ export class AppComponent {
   wordsToImages: { word: string; imageUrl: string }[] = [
     {
       word: 'apple',
-      imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg',
+      imageUrl: 'assets/images/05.jpg',
     },
     {
       word: 'cat',
-      imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg',
+      imageUrl: 'assets/images/10.jpg',
     },
     {
       word: 'dog',
-      imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg',
+      imageUrl: 'assets/images/15.jpg',
+    },
+    {
+      word: 'horse',
+      imageUrl: 'assets/images/20.jpg',
+    },
+    {
+      word: 'duck',
+      imageUrl: 'assets/images/25.jpg',
+    },
+    {
+      word: 'hair',
+      imageUrl: 'assets/images/30.jpg',
     },
   ];
 
