@@ -19,27 +19,47 @@ export class AppComponent {
   // Список слов и соответствующих картинок в нужном порядке
   wordsToImages: { word: string; imageUrl: string }[] = [
     {
-      word: 'apple',
+      word: 'тир',
       imageUrl: 'assets/images/05.jpg',
     },
     {
-      word: 'cat',
+      word: 'май',
       imageUrl: 'assets/images/10.jpg',
     },
     {
-      word: 'dog',
+      word: 'гребешок',
       imageUrl: 'assets/images/15.jpg',
     },
     {
-      word: 'horse',
+      word: 'Лермонтов',
       imageUrl: 'assets/images/20.jpg',
     },
     {
-      word: 'duck',
+      word: 'морская',
       imageUrl: 'assets/images/25.jpg',
     },
     {
-      word: 'hair',
+      word: 'о',
+      imageUrl: 'assets/images/30.jpg',
+    },
+    {
+      word: 'свинья',
+      imageUrl: 'assets/images/30.jpg',
+    },
+    {
+      word: 'покрывало',
+      imageUrl: 'assets/images/30.jpg',
+    },
+    {
+      word: 'самовар',
+      imageUrl: 'assets/images/30.jpg',
+    },
+    {
+      word: '42',
+      imageUrl: 'assets/images/30.jpg',
+    },
+    {
+      word: 'помогите',
       imageUrl: 'assets/images/30.jpg',
     },
   ];
