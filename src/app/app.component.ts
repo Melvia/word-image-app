@@ -31,7 +31,7 @@ export class AppComponent {
       imageUrl: 'assets/images/15.jpg',
     },
     {
-      word: 'Лермонтов',
+      word: 'лермонтов',
       imageUrl: 'assets/images/20.jpg',
     },
     {
@@ -40,11 +40,11 @@ export class AppComponent {
     },
     {
       word: 'о',
-      imageUrl: 'assets/images/30.jpg',
+      imageUrl: 'assets/images/26.jpg',
     },
     {
       word: 'свинья',
-      imageUrl: 'assets/images/30.jpg',
+      imageUrl: 'assets/images/27.jpg',
     },
     {
       word: 'покрывало',
@@ -52,15 +52,15 @@ export class AppComponent {
     },
     {
       word: 'самовар',
-      imageUrl: 'assets/images/30.jpg',
+      imageUrl: 'assets/images/32.jpg',
     },
     {
       word: '42',
-      imageUrl: 'assets/images/30.jpg',
+      imageUrl: 'assets/images/33.jpg',
     },
     {
       word: 'помогите',
-      imageUrl: 'assets/images/30.jpg',
+      imageUrl: 'assets/images/35.jpg',
     },
   ];
 
