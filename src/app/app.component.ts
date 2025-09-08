@@ -1,6 +1,4 @@
-import { Component } from '@angular/core';
-import {FormsModule} from '@angular/forms';
-import {NgIf} from '@angular/common';
+import {Component} from '@angular/core';
 import {RouterOutlet} from '@angular/router';
 
 @Component({
@@ -13,6 +11,7 @@ import {RouterOutlet} from '@angular/router';
   standalone: true
 })
 export class AppComponent {
+  input: string = '';
 
 }
 
